@@ -14,9 +14,11 @@ Project builds navigation menu from HTML elements and distinguishes seleceted me
 
 css
 - styles.css    
-index.html
+
 js
 - app.js
+
+index.html
 README.md
 
 ## Functions
